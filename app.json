@@ -1,0 +1,12 @@
+{
+  "name": "CadastroPropriedade",
+  "displayName": "CadastroPropriedade",
+  "expo": {
+    "name": "CadastroPropriedade",
+    "slug": "CadastroPropriedade",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
